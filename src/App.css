@@ -1,0 +1,79 @@
+.container
+{
+  height: 30rem;
+  width: 30%;
+  background-color: #00425A;
+  margin-top: 10% ;
+  border-radius: 1rem;
+}
+.display-text
+{
+  height: 3rem;
+  width: 70%;
+  text-align: right;
+  font-size: 1.2rem;
+  letter-spacing: 2px;
+  font-weight: bolder;
+  border-radius: 0.5rem;
+  border: none;
+  outline: 0;
+  margin-top: 5%;
+}
+.keypad
+{
+  height: 75%;
+  width: 80%;
+  /* background-color: aqua; */
+}
+.key-btn
+{
+  height: 3.5rem;
+  width: 3.5rem;
+  display: inline-block;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 3%;
+  font-size: 1.3rem;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  background-color: #B9F3FC;
+}
+.highlight
+{
+  height: 3.5rem;
+  width: 5rem;
+  display: inline-block;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 3%;
+  font-size: 1.3rem;
+  cursor: pointer;
+  background-color: #FEDEFF;
+  border-radius: 0.5rem;
+}
+.highlight_clear
+{
+  height: 3.5rem;
+  width: 8rem;
+  display: inline-block;
+  margin-left: 24%;
+  margin-right: 3%;
+  margin-top: 3%;
+  font-size: 1.3rem;
+  cursor: pointer;
+  background-color: #FEDEFF;
+  border-radius: 0.5rem;
+}
+.highlight_equ
+{
+  height: 3.5rem;
+  width: 8rem;
+  display: inline-block;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 3%;
+  font-size: 1.3rem;
+  cursor: pointer;
+  background-color: #FEDEFF;
+  border-radius: 0.5rem;
+}
